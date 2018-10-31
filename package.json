@@ -1,0 +1,19 @@
+{
+  "name": "angular-learn",
+  "version": "1.0.0",
+  "description": "angular-learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardolc/angular-learn.git"
+  },
+  "author": "Eduardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardolc/angular-learn/issues"
+  },
+  "homepage": "https://github.com/eduardolc/angular-learn#readme"
+}
